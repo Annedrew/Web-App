@@ -1,0 +1,4 @@
+.DS_Store
+web_blog/blog/__pycache__
+web_blog/blog/migrations/__pycache__
+web_blog/web_blog/__pycache__
