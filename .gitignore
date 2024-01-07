@@ -2,3 +2,4 @@
 web_blog/blog/__pycache__
 web_blog/blog/migrations/__pycache__
 web_blog/web_blog/__pycache__
+web_blog/users/__pycache__
