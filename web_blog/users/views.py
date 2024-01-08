@@ -23,8 +23,6 @@ def profile(request):
     return render(request, 'users/profile.html')
 
 
-
-
 # messages.debug
 # messages.info
 # messages.success
