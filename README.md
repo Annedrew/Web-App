@@ -6,6 +6,8 @@ This is a blog website with the functionality below:
 - Users can filter posts by clicking on a username to view posts from a specific user.
 
 # Quick Start
+To start the server, run the foloowing command:
+
 ```
 cd web_blog
 python manage.py runserver
