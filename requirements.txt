@@ -1,5 +1,0 @@
-Django==5.0.1
-Pillow==10.2.0
-gunicorn==21.2.0
-django-crispy-forms
-crispy-bootstrap4
