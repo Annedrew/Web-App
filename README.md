@@ -10,5 +10,6 @@ To start the server, run the foloowing command:
 
 ```
 cd web_blog
+python mange.py migrate
 python manage.py runserver
 ```
